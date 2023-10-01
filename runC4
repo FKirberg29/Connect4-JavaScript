@@ -1,0 +1,1 @@
+node src/c4.mjs "$@"
